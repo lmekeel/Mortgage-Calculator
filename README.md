@@ -1,5 +1,16 @@
 # Mortgage-Calculator
-Simple mortgage calculator
+Simple mortgage calculator that allows the user to calculate monthly payments. 
+
+Input:
+-Home Price
+-Down Payment
+-Interest Rate
+-Loan Term (10, 20, 30 years)
+
+Output:
+-Loan Amount
+-Monthly payment (based on selected loan term)
+
 
 # SCREENSHOTS
 <img width="333" alt="Screenshot 2023-09-28 at 11 30 04 AM" src="https://github.com/lmekeel/Mortgage-Calculator/assets/95368109/09638e15-9c90-4afb-a01b-0e2bddcd52e3">
